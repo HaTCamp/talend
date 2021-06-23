@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_SAmBYMgwEeuDC7J4zmT-Kg" confirmationNeeded="false" name="Default">
+    <contextParameter xmi:id="_SAmBYcgwEeuDC7J4zmT-Kg" comment="" name="pgsql_hijra_dwh_Database" prompt="pgsql_hijra_dwh_Database?" promptNeeded="false" type="id_String" value="alami_hijra_dwh"/>
+    <contextParameter xmi:id="_SAmBYsgwEeuDC7J4zmT-Kg" comment="" name="pgsql_hijra_dwh_Schema" prompt="pgsql_hijra_dwh_Schema?" promptNeeded="false" type="id_String" value="public"/>
+    <contextParameter xmi:id="_SAmBY8gwEeuDC7J4zmT-Kg" comment="" name="pgsql_hijra_dwh_Login" prompt="pgsql_hijra_dwh_Login?" promptNeeded="false" type="id_String" value="postgres"/>
+    <contextParameter xmi:id="_SAmBZMgwEeuDC7J4zmT-Kg" comment="" name="pgsql_hijra_dwh_Server" prompt="pgsql_hijra_dwh_Server?" promptNeeded="false" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_SAmBZcgwEeuDC7J4zmT-Kg" comment="" name="pgsql_hijra_dwh_Password" prompt="pgsql_hijra_dwh_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:Gr5QeH7KRdLybYywbp9qYDBY16uYCt5ogfbk5ACwNw=="/>
+    <contextParameter xmi:id="_SAmBZsgwEeuDC7J4zmT-Kg" comment="" name="pgsql_hijra_dwh_Port" prompt="pgsql_hijra_dwh_Port?" promptNeeded="false" type="id_String" value="5432"/>
+    <contextParameter xmi:id="_SAmBZ8gwEeuDC7J4zmT-Kg" comment="" name="pgsql_hijra_dwh_AdditionalParams" prompt="pgsql_hijra_dwh_AdditionalParams?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_J0cYkMzAEeuN6sd0wOeqyQ" confirmationNeeded="false" name="Dev">
+    <contextParameter xmi:id="_J0cYkczAEeuN6sd0wOeqyQ" comment="" name="pgsql_hijra_dwh_Database" prompt="pgsql_hijra_dwh_Database?" promptNeeded="false" type="id_String" value="alami_hijra_dwh"/>
+    <contextParameter xmi:id="_J0cYkszAEeuN6sd0wOeqyQ" comment="" name="pgsql_hijra_dwh_Schema" prompt="pgsql_hijra_dwh_Schema?" promptNeeded="false" type="id_String" value="public"/>
+    <contextParameter xmi:id="_J0cYk8zAEeuN6sd0wOeqyQ" comment="" name="pgsql_hijra_dwh_Login" prompt="pgsql_hijra_dwh_Login?" promptNeeded="false" type="id_String" value="postgres"/>
+    <contextParameter xmi:id="_J0cYlMzAEeuN6sd0wOeqyQ" comment="" name="pgsql_hijra_dwh_Server" prompt="pgsql_hijra_dwh_Server?" promptNeeded="false" type="id_String" value="192.168.1.7"/>
+    <contextParameter xmi:id="_J0cYlczAEeuN6sd0wOeqyQ" comment="" name="pgsql_hijra_dwh_Password" prompt="pgsql_hijra_dwh_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:/VX6CQ/RlkQy7CFlobUsH8Cpi30vB+jjrej1LdNmpg=="/>
+    <contextParameter xmi:id="_J0cYlszAEeuN6sd0wOeqyQ" comment="" name="pgsql_hijra_dwh_Port" prompt="pgsql_hijra_dwh_Port?" promptNeeded="false" type="id_String" value="5432"/>
+    <contextParameter xmi:id="_J0cYl8zAEeuN6sd0wOeqyQ" comment="" name="pgsql_hijra_dwh_AdditionalParams" prompt="pgsql_hijra_dwh_AdditionalParams?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_J0cYmMzAEeuN6sd0wOeqyQ" confirmationNeeded="false" name="Prod">
+    <contextParameter xmi:id="_J0cYmczAEeuN6sd0wOeqyQ" comment="" name="pgsql_hijra_dwh_Database" prompt="pgsql_hijra_dwh_Database?" promptNeeded="false" type="id_String" value="alami_hijra_dwh"/>
+    <contextParameter xmi:id="_J0cYmszAEeuN6sd0wOeqyQ" comment="" name="pgsql_hijra_dwh_Schema" prompt="pgsql_hijra_dwh_Schema?" promptNeeded="false" type="id_String" value="public"/>
+    <contextParameter xmi:id="_J0cYm8zAEeuN6sd0wOeqyQ" comment="" name="pgsql_hijra_dwh_Login" prompt="pgsql_hijra_dwh_Login?" promptNeeded="false" type="id_String" value="postgres"/>
+    <contextParameter xmi:id="_J0cYnMzAEeuN6sd0wOeqyQ" comment="" name="pgsql_hijra_dwh_Server" prompt="pgsql_hijra_dwh_Server?" promptNeeded="false" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_J0cYnczAEeuN6sd0wOeqyQ" comment="" name="pgsql_hijra_dwh_Password" prompt="pgsql_hijra_dwh_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:GpnWGFpR/3pZlQ47s8Lf5I0o/XTP8lQ7uoV7gxJeGw=="/>
+    <contextParameter xmi:id="_J0cYnszAEeuN6sd0wOeqyQ" comment="" name="pgsql_hijra_dwh_Port" prompt="pgsql_hijra_dwh_Port?" promptNeeded="false" type="id_String" value="5432"/>
+    <contextParameter xmi:id="_J0cYn8zAEeuN6sd0wOeqyQ" comment="" name="pgsql_hijra_dwh_AdditionalParams" prompt="pgsql_hijra_dwh_AdditionalParams?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+</xmi:XMI>
